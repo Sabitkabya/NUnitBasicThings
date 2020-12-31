@@ -1,0 +1,15 @@
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnitBasicThings.deps.json
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnitBasicThings.runtimeconfig.json
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnitBasicThings.runtimeconfig.dev.json
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnitBasicThings.dll
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\bin\Debug\netcoreapp2.1\NUnitBasicThings.pdb
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.csproj.CoreCompileInputs.cache
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.AssemblyInfoInputs.cache
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.AssemblyInfo.cs
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.dll
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.pdb
+D:\Drivers\NUnitBasicThings\NUnitBasicThings\obj\Debug\netcoreapp2.1\NUnitBasicThings.csprojAssemblyReference.cache
