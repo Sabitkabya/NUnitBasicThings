@@ -33,6 +33,7 @@ namespace Tests
 
                 else
                 {
+                    checkBox.Click();
 
                 }
                 
